@@ -9,8 +9,21 @@
 
 </div>
 
+## Project Overview
 
-&emsp;&emsp;This project is a Chinese baby's exclusive large model tutorial based on the Linux platform, focusing on open source large models for domestic beginners. It provides full-process guidance including environment configuration, local deployment, and efficient fine-tuning for various open source large models. It simplifies the deployment, usage, and application processes of open source large models, enabling more ordinary students and researchers to better use open source large models, and helping open source and free large models to integrate into the lives of ordinary learners faster.
+> **In one sentence**: This project is a hands-on Chinese tutorial series for open-source LLMs, covering environment setup, local deployment, and efficient fine-tuning — supporting 50+ mainstream models across Linux, AMD, Huawei Ascend, and Apple M-series platforms.
+
+| 📌 Key Facts | Details |
+|---|---|
+| **Purpose** | Chinese-language practical tutorial library for open-source LLM deployment, usage, and fine-tuning |
+| **Target Audience** | Domestic students, researchers, and developers (no deep technical background required) |
+| **Models Covered** | 50+ mainstream LLMs (Qwen, GLM, DeepSeek, LLaMA, InternLM, and more) |
+| **Tutorial Content** | Environment setup → Local deployment → API services → WebDemo → LoRA fine-tuning → RAG / Agent |
+| **Supported Platforms** | Linux x86 (main), AMD GPU, Huawei Ascend NPU, Apple M-series (MLX) |
+| **Example Projects** | Chat-嬛嬛, Tianji, AMChat, Digital Life — complete end-to-end application demos |
+| **Maintained by** | [Datawhale](https://github.com/datawhalechina) open-source community, 80+ contributors |
+
+&emsp;&emsp;This project is a beginner-friendly Chinese-language tutorial for open source large models on the Linux platform, designed for domestic learners. It provides full-process guidance including environment configuration, local deployment, and efficient fine-tuning for various open source large models. It simplifies the deployment, usage, and application processes of open source large models, enabling more ordinary students and researchers to better use open source large models, and helping open source and free large models to integrate into the lives of ordinary learners faster.
 
 &emsp;&emsp;The main contents of this project include:
 
